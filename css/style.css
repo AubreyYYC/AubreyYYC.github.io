@@ -1,0 +1,132 @@
+/*网页的全局样式 解决兼容问题*/
+body,div,p,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,table,tr,td,form,input,select,textarea,span,img,a,em,strong,*{ margin:0; padding:0;}
+body{ font-family:"宋体"; font-size:12px; color:#000000;}
+ul,ol,li{ list-style:none;}
+h1,h2,h3,h4,h5,h6{ font-size:14px;}
+input,select,textarea{ vertical-align:middle;}
+img{ border:none; vertical-align:middle;}
+a{ text-decoration:none;color:#333;}
+a:hover{ color:#009999;}
+.clear{ clear:both; height:0px; width:0px; overflow:hidden;}
+
+.q{ width: 1308px; height: 1506px;  margin: 0 auto;}
+.a{ height: 127px; }
+.b{ height: 51px; border-bottom: 1px #bcbcbc solid;}
+.b ul li{
+	float: left;
+	padding-right: 23px; 
+}
+.b ul{ 
+	line-height: 51px;
+}
+.b ul li a{
+	font-size: 14px;
+}
+.p1{
+	margin-left: 13px;
+	margin-right: 12px;
+}
+.c{ height: 88px; margin-top: 26px; margin-bottom: 32px;}
+.d{ height: 982px;margin-bottom: 61px;}
+
+.d1{ width: 416px; height: 982px; float: left; margin-right: 27px;}
+.d11{
+	width: 416px; 
+	height: 575px;
+   margin-bottom: 18px;
+}
+.d11 h1{
+	color: #089086;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.d11 ul li{
+	line-height: 34px;
+	list-style: square inside;
+	padding-left: 8px;
+}
+.d11 img{
+	margin-bottom: 10px;
+}
+.d12{
+	width: 416px;
+	height: 389px;
+}
+.d12 dl{
+	width: 197px;
+	height: 195px;
+	float: left;
+}
+.d12 dl dd{
+	line-height: 25px;
+	font-size: 14px;
+}
+.d2{ width: 429px; height: 982px; float: left;}
+.d21{
+	width: 429px;
+	height: 397px;
+	margin-bottom: 20px; 
+}
+.d21 h1{
+	font-size: 20px;
+	color: #089086;
+	margin-bottom: 5px;
+}
+.d21 ul li{
+	list-style: square inside;
+	line-height: 32px;
+	font-size: 14px;
+}
+.d22{
+	width: 429px;
+	height: 565px; 
+}
+.d22 h1{
+	font-size: 20px;
+	color: #089086;
+	margin-bottom: 5px;
+}
+.d22 ul li{
+	font-size: 14px;
+	line-height: 33px;
+	list-style: square inside;
+	padding-left: 6px;
+}
+.d3{ width: 406px; height: 982px;  float: right;}
+.d31{
+	width: 406px;
+    height: 442px;
+    margin-bottom: 15px;
+}
+.d31 img{
+	margin-bottom: 8px;
+}
+.d31 ul li{
+	line-height: 35px;
+	font-size: 14px;
+	list-style: square inside;
+}
+.d32{
+	width: 406px;
+	height: 525px;
+}
+.d32 dl{
+	width: 396px;
+	height: 103px;
+	margin-bottom: 36px;
+}
+.d32 dl dt{
+	float: left;
+	margin-right: 7px;
+}
+.d32 dl dd{
+  font-size: 14px;
+  line-height: 30px;
+}
+.e{ height: 110px; }
+.e p{
+	color: #a6aba7;
+	text-align: center;
+	line-height: 25px;
+}
